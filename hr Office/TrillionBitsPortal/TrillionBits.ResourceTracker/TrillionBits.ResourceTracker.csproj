@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C4A89755-AF72-4A22-9980-1E5EE2F299B4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TrillionBits.ResourceTracker</RootNamespace>
+    <AssemblyName>TrillionBits.ResourceTracker</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Practices.EnterpriseLibrary.Common.dll.3.1.0\lib\2.0\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Practices.EnterpriseLibrary.Data.dll.3.1.0\lib\2.0\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ObjectBuilder, Version=1.0.51206.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Practices.ObjectBuilder.dll.3.1.0\lib\2.0\Microsoft.Practices.ObjectBuilder.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Lib\PatternPractice\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataAccess\AttendanceDataAccess.cs" />
+    <Compile Include="DataAccess\CompanyDataAccess.cs" />
+    <Compile Include="DataAccess\DepartmentDataAccess.cs" />
+    <Compile Include="DataAccess\EmployeeDataAccess.cs" />
+    <Compile Include="DataAccess\EmployeeLeaveDataAccess.cs" />
+    <Compile Include="DataAccess\EmployeeTaskDataAccess.cs" />
+    <Compile Include="DataAccess\NoticeBoardDataAccess.cs" />
+    <Compile Include="DataAccess\UserCredentialDataAccess.cs" />
+    <Compile Include="DataAccess\UserMapper.cs" />
+    <Compile Include="Interfaces\IAttendance.cs" />
+    <Compile Include="Interfaces\ICompany.cs" />
+    <Compile Include="Interfaces\IEmployeeTask.cs" />
+    <Compile Include="Interfaces\IEmployeeLeave.cs" />
+    <Compile Include="Interfaces\IDepartment.cs" />
+    <Compile Include="Interfaces\IEmployee.cs" />
+    <Compile Include="Interfaces\INoticeBoard.cs" />
+    <Compile Include="Interfaces\IUserCredential.cs" />
+    <Compile Include="Mappers\AttendanceMapper.cs" />
+    <Compile Include="Mappers\CommonMapper.cs" />
+    <Compile Include="Mappers\CompanyMapper.cs" />
+    <Compile Include="Mappers\DepartmentMapper.cs" />
+    <Compile Include="Mappers\EmployeeTaskMapper.cs" />
+    <Compile Include="Mappers\EmployeeMapper.cs" />
+    <Compile Include="Mappers\EmployeeTrackingMapper.cs" />
+    <Compile Include="Mappers\EmployeeLeaveMapper.cs" />
+    <Compile Include="Mappers\LeavingReasonMapper.cs" />
+    <Compile Include="Mappers\NoticeBoardMapper.cs" />
+    <Compile Include="Models\AttendanceModel.cs" />
+    <Compile Include="Models\BaseModel.cs" />
+    <Compile Include="Models\CommonModel.cs" />
+    <Compile Include="Models\Company.cs" />
+    <Compile Include="Models\CompanyListModel.cs" />
+    <Compile Include="Models\Department.cs" />
+    <Compile Include="Models\EmployeeLeaveModel.cs" />
+    <Compile Include="Models\EmployeeNotice.cs" />
+    <Compile Include="Models\EmployeeRegistrationModel.cs" />
+    <Compile Include="Models\EmployeeTrack.cs" />
+    <Compile Include="Models\EmployeeTrackInfoViewModel.cs" />
+    <Compile Include="Models\EmployeeUser.cs" />
+    <Compile Include="Models\EmployeeViewModel.cs" />
+    <Compile Include="Models\LeavingReason.cs" />
+    <Compile Include="Models\TaskModel.cs" />
+    <Compile Include="Models\NoticeBoard.cs" />
+    <Compile Include="Models\NoticeDepartment.cs" />
+    <Compile Include="Models\NoticeDepartmentVIewModel.cs" />
+    <Compile Include="Models\PortalUserViewModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RTUnityMapper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TrillionBitsPortal.Common\TrillionBitsPortal.Common.csproj">
+      <Project>{6222D455-043F-4347-8F2C-1555CBEF6C99}</Project>
+      <Name>eMedicare.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TrillionBits.DataAccess.Common\TrillionBits.DataAccess.Common.csproj">
+      <Project>{7b5174cf-2703-47ef-93c9-3e5c2a2f5189}</Project>
+      <Name>TrillionBits.DataAccess.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

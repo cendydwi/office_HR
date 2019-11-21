@@ -1,0 +1,6 @@
+D:\Isahak_Tfs\xprocockpit\eMedicare\eMedicare.Common\bin\Release\eMedicare.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\eMedicare.Common\bin\Release\eMedicare.Common.pdb
+D:\Isahak_Tfs\xprocockpit\eMedicare\eMedicare.Common\bin\Release\log4net.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\eMedicare.Common\bin\Release\log4net.xml
+D:\Isahak_Tfs\xprocockpit\eMedicare\eMedicare.Common\obj\Release\eMedicare.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\eMedicare.Common\obj\Release\eMedicare.Common.pdb

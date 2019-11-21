@@ -1,0 +1,90 @@
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\TrillionBits.DataAccess.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\TrillionBits.DataAccess.Common.pdb
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\eMedicare.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\log4net.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\eMedicare.Common.pdb
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\log4net.xml
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.csprojResolveAssemblyReference.cache
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.pdb
+F:\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\TrillionBits.DataAccess.Common.dll
+F:\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\TrillionBits.DataAccess.Common.pdb
+F:\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\log4net.dll
+F:\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\log4net.xml
+F:\eMedicare\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.csprojResolveAssemblyReference.cache
+F:\eMedicare\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.dll
+F:\eMedicare\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.pdb
+F:\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\TrillionBitsPortal.Common.dll
+F:\eMedicare\TrillionBits.DataAccess.Common\bin\Debug\TrillionBitsPortal.Common.pdb
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBits.DataAccess.Common.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBits.DataAccess.Common.pdb
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBitsPortal.Common.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\log4net.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBitsPortal.Common.pdb
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\log4net.xml
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.csprojResolveAssemblyReference.cache
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.pdb
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBits.DataAccess.Common.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBits.DataAccess.Common.pdb
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBitsPortal.Common.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\log4net.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBitsPortal.Common.pdb
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\log4net.xml
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.csprojAssemblyReference.cache
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.csproj.CoreCompileInputs.cache
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.csproj.CopyComplete
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.pdb
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBits.DataAccess.Common.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBits.DataAccess.Common.pdb
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBitsPortal.Common.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\log4net.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBitsPortal.Common.pdb
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\log4net.xml
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.csprojResolveAssemblyReference.cache
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBits.DataAccess.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBits.DataAccess.Common.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBitsPortal.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\log4net.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBitsPortal.Common.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\log4net.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.csprojAssemblyReference.cache
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.csproj.CoreCompileInputs.cache
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.csproj.CopyComplete
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBits.DataAccess.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBits.DataAccess.Common.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBitsPortal.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\log4net.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\TrillionBitsPortal.Common.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Debug\log4net.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.csprojAssemblyReference.cache
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.csproj.CoreCompileInputs.cache
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.csproj.CopyComplete
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Debug\TrillionBits.DataAccess.Common.pdb

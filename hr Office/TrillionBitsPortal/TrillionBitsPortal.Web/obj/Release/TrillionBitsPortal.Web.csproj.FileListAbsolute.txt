@@ -1,0 +1,282 @@
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\SqlServerTypes\x64\msvcr100.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\SqlServerTypes\x86\msvcr100.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBitsPortal.Web.dll.config
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBitsPortal.Web.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBitsPortal.Web.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Antlr3.Runtime.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.AspNet.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.Core.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OAuth.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OpenId.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\EntityFramework.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\EntityFramework.SqlServer.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ExcelDataReader.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ICSharpCode.SharpZipLib.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\itextsharp.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Data.Edm.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Data.OData.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.IdentityModel.Logging.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.IdentityModel.Tokens.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Practices.Unity.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.ReportViewer.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.ReportViewer.DataVisualization.DLL
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.ReportViewer.Design.DLL
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.ReportViewer.WebDesign.DLL
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.ReportViewer.WebForms.DLL
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.SqlServer.Types.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.WindowsAzure.Storage.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Newtonsoft.Json.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Net.Http.Formatting.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Spatial.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Helpers.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Http.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Http.OData.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Http.WebHost.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Mvc.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Optimization.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Razor.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.WebPages.Deployment.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.WebPages.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.WebPages.Razor.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBits.ResourceTracker.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBitsPortal.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\WebGrease.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\WebMatrix.Data.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\WebMatrix.WebData.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\log4net.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBits.DataAccess.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.ReportViewer.WinForms.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\EnvDTE.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.VisualStudio.Shell.Interop.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\EnvDTE80.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Practices.ObjectBuilder.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\stdole.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.VisualStudio.OLE.Interop.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.MSXML.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBitsPortal.Common.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBits.ResourceTracker.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\EntityFramework.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\EntityFramework.SqlServer.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ExcelDataReader.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ICSharpCode.SharpZipLib.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\itextsharp.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.IdentityModel.Logging.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.IdentityModel.Logging.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.IdentityModel.Tokens.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.IdentityModel.Tokens.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.WindowsAzure.Storage.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.WindowsAzure.Storage.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Newtonsoft.Json.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.IdentityModel.Tokens.Jwt.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Net.Http.Formatting.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Http.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Http.WebHost.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Helpers.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Mvc.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Razor.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.WebPages.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.WebPages.Deployment.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.WebPages.Razor.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\WebMatrix.Data.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\WebMatrix.WebData.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.AspNet.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.Core.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OAuth.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OpenId.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Http.OData.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Data.Edm.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Data.OData.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Spatial.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\log4net.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBits.DataAccess.Common.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\de\Microsoft.Data.Edm.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\es\Microsoft.Data.Edm.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\it\Microsoft.Data.Edm.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\de\Microsoft.Data.OData.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\es\Microsoft.Data.OData.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\fr\Microsoft.Data.OData.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\it\Microsoft.Data.OData.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ja\Microsoft.Data.OData.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ko\Microsoft.Data.OData.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ru\Microsoft.Data.OData.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\de\System.Spatial.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\es\System.Spatial.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\fr\System.Spatial.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\it\System.Spatial.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ja\System.Spatial.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ko\System.Spatial.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ru\System.Spatial.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\zh-Hans\System.Spatial.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\bin\zh-Hant\System.Spatial.resources.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\obj\Release\TrillionBitsPortal.Web.csprojAssemblyReference.cache
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\obj\Release\TrillionBitsPortal.Web.csproj.CoreCompileInputs.cache
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\obj\Release\TrillionBitsPortal.Web.csproj.CopyComplete
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\obj\Release\TrillionBitsPortal.Web.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Web\obj\Release\TrillionBitsPortal.Web.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\SqlServerTypes\x64\msvcr100.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\SqlServerTypes\x64\SqlServerSpatial110.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\SqlServerTypes\x86\msvcr100.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\SqlServerTypes\x86\SqlServerSpatial110.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBitsPortal.Web.dll.config
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBitsPortal.Web.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBitsPortal.Web.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Antlr3.Runtime.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.AspNet.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.Core.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OAuth.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OpenId.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\EntityFramework.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\EntityFramework.SqlServer.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ExcelDataReader.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ICSharpCode.SharpZipLib.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\itextsharp.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Data.Edm.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Data.OData.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.IdentityModel.Logging.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.IdentityModel.Tokens.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Practices.Unity.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.ReportViewer.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.ReportViewer.DataVisualization.DLL
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.ReportViewer.Design.DLL
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.ReportViewer.WebDesign.DLL
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.ReportViewer.WebForms.DLL
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.SqlServer.Types.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.WindowsAzure.Storage.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Newtonsoft.Json.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Net.Http.Formatting.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Spatial.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Helpers.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Http.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Http.OData.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Http.WebHost.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Mvc.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Optimization.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Razor.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.WebPages.Deployment.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.WebPages.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.WebPages.Razor.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBits.ResourceTracker.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBitsPortal.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\WebGrease.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\WebMatrix.Data.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\WebMatrix.WebData.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\log4net.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBits.DataAccess.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.ReportViewer.WinForms.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\EnvDTE.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.VisualStudio.Shell.Interop.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\EnvDTE80.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Practices.ObjectBuilder.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\stdole.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.VisualStudio.OLE.Interop.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.MSXML.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBitsPortal.Common.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBits.ResourceTracker.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\EntityFramework.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\EntityFramework.SqlServer.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ExcelDataReader.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ICSharpCode.SharpZipLib.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\itextsharp.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.IdentityModel.Logging.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.IdentityModel.Logging.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.IdentityModel.Tokens.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.IdentityModel.Tokens.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.WindowsAzure.Storage.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.WindowsAzure.Storage.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Newtonsoft.Json.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.IdentityModel.Tokens.Jwt.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Net.Http.Formatting.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Http.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Http.WebHost.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Helpers.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Mvc.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Razor.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.WebPages.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.WebPages.Deployment.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.WebPages.Razor.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\WebMatrix.Data.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\WebMatrix.WebData.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.AspNet.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.Core.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OAuth.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OpenId.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Web.Http.OData.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Data.Edm.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\Microsoft.Data.OData.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\System.Spatial.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\log4net.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\TrillionBits.DataAccess.Common.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\de\Microsoft.Data.Edm.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\es\Microsoft.Data.Edm.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\it\Microsoft.Data.Edm.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\de\Microsoft.Data.OData.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\es\Microsoft.Data.OData.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\fr\Microsoft.Data.OData.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\it\Microsoft.Data.OData.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ja\Microsoft.Data.OData.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ko\Microsoft.Data.OData.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ru\Microsoft.Data.OData.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\de\System.Spatial.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\es\System.Spatial.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\fr\System.Spatial.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\it\System.Spatial.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ja\System.Spatial.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ko\System.Spatial.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\ru\System.Spatial.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\zh-Hans\System.Spatial.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\bin\zh-Hant\System.Spatial.resources.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\obj\Release\TrillionBitsPortal.Web.csprojAssemblyReference.cache
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\obj\Release\TrillionBitsPortal.Web.csproj.CoreCompileInputs.cache
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\obj\Release\TrillionBitsPortal.Web.csproj.CopyComplete
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\obj\Release\TrillionBitsPortal.Web.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Web\obj\Release\TrillionBitsPortal.Web.pdb

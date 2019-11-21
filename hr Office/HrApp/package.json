@@ -1,0 +1,51 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject",
+    "test": "node ./node_modules/jest/bin/jest.js --watchAll"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^10.0.1",
+    "expo": "^33.0.0",
+    "expo-ads-admob": "~5.0.1",
+    "expo-cli": "^2.18.5",
+    "expo-font": "^5.0.1",
+    "expo-location": "^5.0.1",
+    "expo-svg-uri": "^1.0.1",
+    "radio-button-react-native": "^1.1.6",
+    "react": "16.8.3",
+    "react-moment": "^0.8.4",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-native-calendar-picker": "^6.0.0",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-elements": "^1.1.0",
+    "react-native-enhanced-popup-menu": "^0.6.1",
+    "react-native-geocoder": "^0.5.0",
+    "react-native-geolocation-service": "^3.1.0",
+    "react-native-image-pan-zoom": "^2.1.11",
+    "react-native-image-zoom-viewer": "^2.2.26",
+    "react-native-leaderboard": "^1.0.6",
+    "react-native-maps": "^0.24.0",
+    "react-native-material-textfield": "^0.12.0",
+    "react-native-modal-datetime-picker": "^6.1.0",
+    "react-native-modal-selector": "^1.0.3",
+    "react-native-modalbox": "^1.6.0",
+    "react-native-onboarding-screen": "^1.0.3",
+    "react-native-phone-call": "^1.0.9",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-simple-dialogs": "^1.0.0",
+    "react-native-storage": "^1.0.0-beta.0",
+    "react-native-svg": "^9.4.0",
+    "react-native-timeline-flatlist": "^0.5.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}

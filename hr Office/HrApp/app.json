@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Hr Office",
+    "slug": "hroffice",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.trillionbits.AttendanceAdmin"
+    },
+    "android": {
+      "package": "com.trillionbits.AttendanceAdmin",
+      "versionCode":17
+    },
+    "description": ""
+  }
+}

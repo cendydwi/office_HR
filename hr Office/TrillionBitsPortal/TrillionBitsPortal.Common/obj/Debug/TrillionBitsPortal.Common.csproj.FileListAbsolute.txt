@@ -1,0 +1,47 @@
+F:\eMedicare\TrillionBitsPortal.Common\bin\Debug\TrillionBitsPortal.Common.dll
+F:\eMedicare\TrillionBitsPortal.Common\bin\Debug\TrillionBitsPortal.Common.pdb
+F:\eMedicare\TrillionBitsPortal.Common\bin\Debug\log4net.dll
+F:\eMedicare\TrillionBitsPortal.Common\bin\Debug\log4net.xml
+F:\eMedicare\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.csprojResolveAssemblyReference.cache
+F:\eMedicare\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.dll
+F:\eMedicare\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.pdb
+F:\For Codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\TrillionBitsPortal.Common.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\TrillionBitsPortal.Common.pdb
+F:\For Codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\log4net.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\log4net.xml
+F:\For Codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.pdb
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\TrillionBitsPortal.Common.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\TrillionBitsPortal.Common.pdb
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\log4net.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\log4net.xml
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.csprojAssemblyReference.cache
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.csproj.CoreCompileInputs.cache
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.csproj.CopyComplete
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.pdb
+F:\For Codecanyon\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.csprojResolveAssemblyReference.cache
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\TrillionBitsPortal.Common.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\TrillionBitsPortal.Common.pdb
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\log4net.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\log4net.xml
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\TrillionBitsPortal.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\TrillionBitsPortal.Common.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\log4net.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\log4net.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.csprojAssemblyReference.cache
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.csproj.CoreCompileInputs.cache
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.csproj.CopyComplete
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\TrillionBitsPortal.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\TrillionBitsPortal.Common.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\log4net.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Common\bin\Debug\log4net.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.csprojAssemblyReference.cache
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.csproj.CoreCompileInputs.cache
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.csproj.CopyComplete
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBitsPortal.Common\obj\Debug\TrillionBitsPortal.Common.pdb

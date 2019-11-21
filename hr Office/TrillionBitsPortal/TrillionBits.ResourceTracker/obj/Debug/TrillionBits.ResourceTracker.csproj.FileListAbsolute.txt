@@ -1,0 +1,121 @@
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.ResourceTracker.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.ResourceTracker.pdb
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\eMedicare.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\Newtonsoft.Json.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.DataAccess.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\log4net.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\eMedicare.Common.pdb
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.DataAccess.Common.pdb
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\Newtonsoft.Json.xml
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Debug\log4net.xml
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.csprojResolveAssemblyReference.cache
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.pdb
+F:\eMedicare\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.ResourceTracker.dll
+F:\eMedicare\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.ResourceTracker.pdb
+F:\eMedicare\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\eMedicare\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\eMedicare\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\eMedicare\TrillionBits.ResourceTracker\bin\Debug\Newtonsoft.Json.dll
+F:\eMedicare\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.DataAccess.Common.dll
+F:\eMedicare\TrillionBits.ResourceTracker\bin\Debug\log4net.dll
+F:\eMedicare\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.DataAccess.Common.pdb
+F:\eMedicare\TrillionBits.ResourceTracker\bin\Debug\Newtonsoft.Json.xml
+F:\eMedicare\TrillionBits.ResourceTracker\bin\Debug\log4net.xml
+F:\eMedicare\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.csprojResolveAssemblyReference.cache
+F:\eMedicare\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.dll
+F:\eMedicare\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.pdb
+F:\eMedicare\TrillionBits.ResourceTracker\bin\Debug\TrillionBitsPortal.Common.dll
+F:\eMedicare\TrillionBits.ResourceTracker\bin\Debug\TrillionBitsPortal.Common.pdb
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.csprojResolveAssemblyReference.cache
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.pdb
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.ResourceTracker.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.ResourceTracker.pdb
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Newtonsoft.Json.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.DataAccess.Common.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBitsPortal.Common.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\log4net.dll
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBitsPortal.Common.pdb
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.DataAccess.Common.pdb
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Newtonsoft.Json.xml
+F:\For Codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\log4net.xml
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.ResourceTracker.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.ResourceTracker.pdb
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Newtonsoft.Json.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.DataAccess.Common.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBitsPortal.Common.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\log4net.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBitsPortal.Common.pdb
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.DataAccess.Common.pdb
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Newtonsoft.Json.xml
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\log4net.xml
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.csprojAssemblyReference.cache
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.csproj.CoreCompileInputs.cache
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.csproj.CopyComplete
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.dll
+E:\Attnd app for codecanyon\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.pdb
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.csprojResolveAssemblyReference.cache
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.pdb
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.ResourceTracker.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.ResourceTracker.pdb
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Newtonsoft.Json.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.DataAccess.Common.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBitsPortal.Common.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\log4net.dll
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBitsPortal.Common.pdb
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.DataAccess.Common.pdb
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Newtonsoft.Json.xml
+E:\Trillionbits\project for codecanyon\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\log4net.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.ResourceTracker.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.ResourceTracker.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Newtonsoft.Json.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.DataAccess.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBitsPortal.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\log4net.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBitsPortal.Common.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.DataAccess.Common.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Newtonsoft.Json.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\log4net.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.csprojAssemblyReference.cache
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.csproj.CoreCompileInputs.cache
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.csproj.CopyComplete
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.ResourceTracker.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.ResourceTracker.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Newtonsoft.Json.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.DataAccess.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBitsPortal.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\log4net.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBitsPortal.Common.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\TrillionBits.DataAccess.Common.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\Newtonsoft.Json.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Debug\log4net.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.csprojAssemblyReference.cache
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.csproj.CoreCompileInputs.cache
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.csproj.CopyComplete
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Debug\TrillionBits.ResourceTracker.pdb

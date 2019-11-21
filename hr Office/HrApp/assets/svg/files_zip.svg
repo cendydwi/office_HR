@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.992" height="15.992" viewBox="0 0 15.992 15.992">
+    <defs>
+        <style>
+            .cls-1{fill:#878787}
+        </style>
+    </defs>
+    <g id="files_4_" data-name="files (4)">
+        <g id="Group_270" data-name="Group 270">
+            <g id="Group_269" data-name="Group 269">
+                <path id="Path_443" d="M12.994 5.5v-2a.5.5 0 0 0-.145-.355l-3-3A.5.5 0 0 0 9.5 0h-8A1.5 1.5 0 0 0 0 1.5v12.993a1.5 1.5 0 0 0 1.5 1.5H5v-1H1.5a.5.5 0 0 1-.5-.5V1.5a.5.5 0 0 1 .5-.5H9v2a1 1 0 0 0 1 1h2v1.5z" class="cls-1" data-name="Path 443"/>
+                <path id="Path_444" d="M402.5 256h-2a.5.5 0 0 0-.5.5v4.5h1v-1.5h1.5a1 1 0 0 0 1-1V257a1 1 0 0 0-1-1zm0 2.5H401V257h1.5z" class="cls-1" data-name="Path 444" transform="translate(-387.506 -248.004)"/>
+                <path id="Rectangle_203" d="M0 0h1v4.998H0z" class="cls-1" data-name="Rectangle 203" transform="translate(10.995 7.996)"/>
+                <path id="Path_445" d="M227.264 256.076A.5.5 0 0 0 227 256h-3v1h2.1l-2 3.233a.5.5 0 0 0 .4.765h3v-1h-2.1l2.024-3.233a.5.5 0 0 0-.16-.689z" class="cls-1" data-name="Path 445" transform="translate(-217.003 -248.004)"/>
+            </g>
+        </g>
+    </g>
+</svg>

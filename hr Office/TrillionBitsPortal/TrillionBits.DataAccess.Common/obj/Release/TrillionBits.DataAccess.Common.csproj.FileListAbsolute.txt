@@ -1,0 +1,40 @@
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Release\TrillionBits.DataAccess.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Release\TrillionBits.DataAccess.Common.pdb
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Release\eMedicare.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Release\log4net.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Release\eMedicare.Common.pdb
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\bin\Release\log4net.xml
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\obj\Release\TrillionBits.DataAccess.Common.csprojResolveAssemblyReference.cache
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\obj\Release\TrillionBits.DataAccess.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.DataAccess.Common\obj\Release\TrillionBits.DataAccess.Common.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\TrillionBits.DataAccess.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\TrillionBits.DataAccess.Common.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\TrillionBitsPortal.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\log4net.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\TrillionBitsPortal.Common.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\log4net.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Release\TrillionBits.DataAccess.Common.csprojAssemblyReference.cache
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Release\TrillionBits.DataAccess.Common.csproj.CoreCompileInputs.cache
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Release\TrillionBits.DataAccess.Common.csproj.CopyComplete
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Release\TrillionBits.DataAccess.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Release\TrillionBits.DataAccess.Common.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\TrillionBits.DataAccess.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\TrillionBits.DataAccess.Common.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\TrillionBitsPortal.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\log4net.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\TrillionBitsPortal.Common.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\bin\Release\log4net.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Release\TrillionBits.DataAccess.Common.csprojAssemblyReference.cache
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Release\TrillionBits.DataAccess.Common.csproj.CoreCompileInputs.cache
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Release\TrillionBits.DataAccess.Common.csproj.CopyComplete
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Release\TrillionBits.DataAccess.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.DataAccess.Common\obj\Release\TrillionBits.DataAccess.Common.pdb

@@ -1,0 +1,55 @@
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\TrillionBits.ResourceTracker.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\TrillionBits.ResourceTracker.pdb
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\eMedicare.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\Microsoft.Practices.Unity.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\Newtonsoft.Json.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\TrillionBits.DataAccess.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\log4net.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\eMedicare.Common.pdb
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\TrillionBits.DataAccess.Common.pdb
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\Newtonsoft.Json.xml
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\bin\Release\log4net.xml
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\obj\Release\TrillionBits.ResourceTracker.csprojResolveAssemblyReference.cache
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\obj\Release\TrillionBits.ResourceTracker.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\TrillionBits.ResourceTracker\obj\Release\TrillionBits.ResourceTracker.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\TrillionBits.ResourceTracker.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\TrillionBits.ResourceTracker.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\Newtonsoft.Json.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\TrillionBits.DataAccess.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\TrillionBitsPortal.Common.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\log4net.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\Microsoft.Practices.ServiceLocation.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\TrillionBitsPortal.Common.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\TrillionBits.DataAccess.Common.pdb
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\Newtonsoft.Json.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\log4net.xml
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Release\TrillionBits.ResourceTracker.csprojAssemblyReference.cache
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Release\TrillionBits.ResourceTracker.csproj.CoreCompileInputs.cache
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Release\TrillionBits.ResourceTracker.csproj.CopyComplete
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Release\TrillionBits.ResourceTracker.dll
+F:\codecanyon-r8VO8dTB-office-hr-attendance-employee-tracking-leaves-notice-board-smart-business-tracker\Attendance_Leaves\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Release\TrillionBits.ResourceTracker.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\TrillionBits.ResourceTracker.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\TrillionBits.ResourceTracker.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\Newtonsoft.Json.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\TrillionBits.DataAccess.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\TrillionBitsPortal.Common.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\log4net.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\Microsoft.Practices.ServiceLocation.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\TrillionBitsPortal.Common.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\TrillionBits.DataAccess.Common.pdb
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\Newtonsoft.Json.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\bin\Release\log4net.xml
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Release\TrillionBits.ResourceTracker.csprojAssemblyReference.cache
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Release\TrillionBits.ResourceTracker.csproj.CoreCompileInputs.cache
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Release\TrillionBits.ResourceTracker.csproj.CopyComplete
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Release\TrillionBits.ResourceTracker.dll
+F:\ReactApp\Code Canon Hr Upload Folder\TrillionBitsPortal\TrillionBits.ResourceTracker\obj\Release\TrillionBits.ResourceTracker.pdb

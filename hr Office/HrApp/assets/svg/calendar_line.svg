@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="calendar-line" width="15.926" height="14.931" viewBox="0 0 15.926 14.931">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <path id="Path_5" d="M17.055 6h-1.617v1h1.493v10.945H3V7h1.488V6H2.871A.886.886 0 0 0 2 6.9v11.139a.886.886 0 0 0 .871.9h14.184a.886.886 0 0 0 .871-.9V6.9a.886.886 0 0 0-.871-.9z" class="cls-1" data-name="Path 5" transform="translate(-2 -4.009)"/>
+    <path id="Rectangle_4" d="M0 0h.995v.995H0z" class="cls-1" data-name="Rectangle 4" transform="translate(2.986 5.972)"/>
+    <path id="Rectangle_5" d="M0 0h.995v.995H0z" class="cls-1" data-name="Rectangle 5" transform="translate(5.972 5.972)"/>
+    <path id="Rectangle_6" d="M0 0h.995v.995H0z" class="cls-1" data-name="Rectangle 6" transform="translate(8.959 5.972)"/>
+    <path id="Rectangle_7" d="M0 0h.995v.995H0z" class="cls-1" data-name="Rectangle 7" transform="translate(11.945 5.972)"/>
+    <path id="Rectangle_8" d="M0 0h.995v.995H0z" class="cls-1" data-name="Rectangle 8" transform="translate(2.986 8.461)"/>
+    <path id="Rectangle_9" d="M0 0h.995v.995H0z" class="cls-1" data-name="Rectangle 9" transform="translate(5.972 8.461)"/>
+    <path id="Rectangle_10" d="M0 0h.995v.995H0z" class="cls-1" data-name="Rectangle 10" transform="translate(8.959 8.461)"/>
+    <path id="Rectangle_11" d="M0 0h.995v.995H0z" class="cls-1" data-name="Rectangle 11" transform="translate(11.945 8.461)"/>
+    <path id="Rectangle_12" d="M0 0h.995v.995H0z" class="cls-1" data-name="Rectangle 12" transform="translate(2.986 10.949)"/>
+    <path id="Rectangle_13" d="M0 0h.995v.995H0z" class="cls-1" data-name="Rectangle 13" transform="translate(5.972 10.949)"/>
+    <path id="Rectangle_14" d="M0 0h.995v.995H0z" class="cls-1" data-name="Rectangle 14" transform="translate(8.959 10.949)"/>
+    <path id="Rectangle_15" d="M0 0h.995v.995H0z" class="cls-1" data-name="Rectangle 15" transform="translate(11.945 10.949)"/>
+    <path id="Path_6" d="M9.5 5.982a.5.5 0 0 0 .5-.5V2.5a.5.5 0 0 0-1 0v2.984a.5.5 0 0 0 .5.498z" class="cls-1" data-name="Path 6" transform="translate(-5.516 -2)"/>
+    <path id="Path_7" d="M25.5 5.982a.5.5 0 0 0 .5-.5V2.5a.5.5 0 1 0-1 0v2.984a.5.5 0 0 0 .5.498z" class="cls-1" data-name="Path 7" transform="translate(-13.553 -2)"/>
+    <path id="Rectangle_16" d="M0 0h4.977v.995H0z" class="cls-1" data-name="Rectangle 16" transform="translate(5.475 1.991)"/>
+</svg>

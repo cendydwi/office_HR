@@ -1,0 +1,13 @@
+D:\Isahak_Tfs\xprocockpit\eMedicare\eMedicare.Common\bin\Debug\eMedicare.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\eMedicare.Common\bin\Debug\eMedicare.Common.pdb
+D:\Isahak_Tfs\xprocockpit\eMedicare\eMedicare.Common\bin\Debug\log4net.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\eMedicare.Common\bin\Debug\log4net.xml
+D:\Isahak_Tfs\xprocockpit\eMedicare\eMedicare.Common\obj\Debug\eMedicare.Common.dll
+D:\Isahak_Tfs\xprocockpit\eMedicare\eMedicare.Common\obj\Debug\eMedicare.Common.pdb
+D:\Isahak_Tfs\xprocockpit\eMedicare\eMedicare.Common\obj\Debug\eMedicare.Common.csprojResolveAssemblyReference.cache
+F:\eMedicare\eMedicare.Common\bin\Debug\eMedicare.Common.dll
+F:\eMedicare\eMedicare.Common\bin\Debug\eMedicare.Common.pdb
+F:\eMedicare\eMedicare.Common\bin\Debug\log4net.dll
+F:\eMedicare\eMedicare.Common\bin\Debug\log4net.xml
+F:\eMedicare\eMedicare.Common\obj\Debug\eMedicare.Common.dll
+F:\eMedicare\eMedicare.Common\obj\Debug\eMedicare.Common.pdb
